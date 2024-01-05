@@ -2,7 +2,7 @@ repo_name: Clivern/locust
 report_id: ca61881036ff72777f440c723f2ea485
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:25:17+00:00'
+timestamp: '2024-01-05T08:18:47+00:00'
 requested_by: jdufresne
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Clivern/locust
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Clivern/locust
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Clivern/locust
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -45,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/locust
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -54,6 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Clivern/locust/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Jonatan Heyman
   last_updated_on: 2013-12-02 21:16:30.000000000 Z
@@ -66,6 +71,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Clivern/locust/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Jonatan Heyman
   last_updated_on: 2012-04-07 15:42:44.000000000 Z
@@ -78,6 +84,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Management
   image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/Clivern/locust/blob/master/Vagrantfile
   detection_source: Vagrantfile
   last_updated_by: Joakim Hamren
   last_updated_on: 2013-11-28 16:19:50.000000000 Z
@@ -102,6 +109,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/Clivern/locust/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Jonatan Heyman
   last_updated_on: 2014-05-01 23:05:10.000000000 Z
@@ -114,6 +122,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20304/default_506725603cd9affb22ffa36e3939310b26cbf952.png
+  detection_source_url: https://github.com/Clivern/locust/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Jonatan Heyman
   last_updated_on: 2014-05-01 23:05:10.000000000 Z
